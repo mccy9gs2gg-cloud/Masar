@@ -1,0 +1,8 @@
+{
+  "name": "MASAR | مسار — Career & University Exploration Platform",
+  "description": "منصة مسار التعليمية لاستكشاف التخصصات الجامعية ومسارات المستقبل لطلبة المدارس في سلطنة عُمان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
